@@ -56,7 +56,7 @@ export const SorareBasicLanding = () => {
 
                 {/* Video Section */}
                 <section className="mb-24 max-w-5xl mx-auto">
-                    <div className="bg-card rounded-3xl p-8 shadow-sm border border-border/50 overflow-hidden">
+                    <div className="bg-card rounded-3xl shadow-sm border border-border/50 overflow-hidden">
                         <video
                             autoPlay
                             loop
