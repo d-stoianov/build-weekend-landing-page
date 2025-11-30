@@ -64,7 +64,7 @@ export const SorareBasicLanding = () => {
                             playsInline
                             className="w-full rounded-xl"
                         >
-                            <source src="/sorare-intro.mov" type="video/mp4" />
+                            <source src="/video.mov" type="video/mp4" />
                             Your browser does not support the video tag.
                         </video>
                     </div>

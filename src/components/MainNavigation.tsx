@@ -13,7 +13,6 @@ export const MainNavigation = () => {
         <div className="flex items-center justify-between h-20">
           <div className="flex items-center gap-8">
             <Link to="/" className="flex items-center gap-3">
-              <img src={notifyerLogo} alt="Notifyer" className="w-10 h-10" />
               <div className="text-2xl font-bold text-foreground">
                 Notifyer
               </div>
